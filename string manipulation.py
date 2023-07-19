@@ -1,0 +1,5 @@
+print("hello world\nhello world\nhello world")
+print("hello"+"reddy")
+print("hello "+"reddy")
+print("hello"+" "+"reddy")
+print("hello"+" "+"reddy")
